@@ -19,3 +19,9 @@ h1 {
 .supporting {
   text-align: center;
 }
+.footer {
+  background-color: dimgray;
+  color: white;
+  font-size: 11px;
+  text-align: left;
+}
